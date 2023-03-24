@@ -22,3 +22,4 @@ urlpatterns = [
     path('customer/', include('customer.urls')),
     path('accounts/', include('accounts.urls')),
 ]
+SECRET_KEY = 'django-insecure-5=9-gugc^snh5g_u$6tpl($hv9j-)92%(yg!s6xus_ungnd-=d'
